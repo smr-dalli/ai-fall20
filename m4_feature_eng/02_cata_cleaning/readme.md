@@ -14,9 +14,6 @@
 8. What is the multivariate imputation method in sklearn?
 9. What is the best univariate imputation method to categorical variables? (Explain why)
 10. What is the best univariate imputation method to numerical variables? (Explain why)
-11. Write a sklearn Column transformer where
-    - Numerical variables: First apply the best imputation method and then normalize.
-    - Categorical variables: First apply the best imputation method and then apply the One Hot encoding.
 
 
 ### 🔎 Outliers
