@@ -93,4 +93,4 @@ Hint: Do all addresses generally have a street number suffix? Do all addresses g
 
 From Kaggle [data cleaning mini course](https://www.kaggle.com/learn/data-cleaning) do:
 - [Handling Missing Values](https://www.kaggle.com/alexisbcook/handling-missing-values) Data Cleaning: 1 of 5
-- [Inconsistent Data Entry(https://www.kaggle.com/alexisbcook/inconsistent-data-entry) Data Cleaning: 5 of 5
+- [Inconsistent Data Entry](https://www.kaggle.com/alexisbcook/inconsistent-data-entry) Data Cleaning: 5 of 5
